@@ -10,6 +10,6 @@ public class Area {
         double result = Circle.getArea(radius);
         //double pi = 3.14;
         //double result = (pi * radius * radius);
-        System.out.println(result);
+        System.out.println("The area of a circle of radius " + radius + " is: " + result);
     }
 }
